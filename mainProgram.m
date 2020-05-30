@@ -1,5 +1,4 @@
-%% Plane FEM code
-% A finite element method (FEM) code in Fortran for solving general 2-D 
+% A finite element method (FEM) code in MATLAB for solving general 2-D 
 % elastostatic problems using the T3\T6\Q4\Q8 element
 % Author: Liu Yazhuo
 % Date: 2020.4.30
