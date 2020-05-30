@@ -21,8 +21,7 @@ spmd
             fclose(fid);
     end
 end
-steel = steel{1};
-elementObj = elementObj{2};
+steel = steel{1}; elementObj = elementObj{2};
 
 meshObj = mesh(elementObj,meshsz);
 
